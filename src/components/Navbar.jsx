@@ -1,7 +1,7 @@
 import React from 'react';
 import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material';
 import { Link } from 'react-router-dom';
-import cskLogo from '/assets/csk-logo.png'; // Adjust the path as needed
+import cskLogo from '/csk-logo.png'; // Adjust the path as needed
 
 export default function Navbar() {
   return (
