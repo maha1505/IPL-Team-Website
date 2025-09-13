@@ -5,7 +5,7 @@ import Team from './pages/Team';
 import Schedule from './pages/Schedule';
 import Stats from './pages/Stats';
 import News from './pages/News';
-import FanZone from './pages/FanZone';
+import FanZone from './pages/Fanzone';
 
 function App() {
   return (
